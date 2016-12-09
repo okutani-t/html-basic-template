@@ -1,5 +1,7 @@
 # html-basic-template
 
-HTMLファイルのテンプレートファイル
+HTMLファイルのテンプレートファイル。
+
+要素のいる、いらないはプロジェクトごとに選択してください。
 
 author: okutani

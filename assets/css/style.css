@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+html {
+  font-size: 62.5%; /* 約10px */
+}
+
+body {
+  font-family: Arial, Roboto, "Droid Sans", "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  color: #333;
+  font-size: 1.6em; /*Chromeでたまに文字が大きくなるので、bodyだけremでなくてemを使う*/
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
